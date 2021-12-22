@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.image-yoga {
+  display: block;
+  margin: 195px auto 122px auto;
+}
+
+input {
+  padding: 20px;
+  background: #e5e5e5;
+  border: none;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 321px;
+  height: 46px;
+  box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+}
+
+input::placeholder {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 15px;
+  width: 66.92px;
+  height: 17px;
+}
+
+#input-password {
+  margin-top: 21px;
+}
+
+.class-forgot {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 15px;
+  color: #000000;
+  display: block;
+  margin-top: 35px;
+  margin-right: 59px;
+  margin-bottom: 38px;
+  text-align: right;
+}
+
+button {
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 18px;
+  color: #ffffff;
+  background: #323232;
+  box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+  border-radius: 10px;
+  width: 133px;
+  height: 46px;
+  display: block;
+  margin: auto;
+  margin-bottom: 21px;
+}
+
+.class-singup {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: -18px;
+  color: #969696;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+strong {
+  color: #000000;
+}
+
+p {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #000000;
+  display: block;
+  margin: 62px auto 19px auto;
+}
+
+.social-network {
+  text-align: center;
+  margin-bottom: 74px;
+}
+
+.app-social {
+    margin: 0 17px;
+}
